@@ -33,15 +33,15 @@
     http://localhost:8000/api
     ```
 
-    * **GET** All jokes
+    * **GET** All jokes<br/>
       ![All jokes](./assets/postman/get-all-jokes.png)
-    * **GET** Find Joke
+    * **GET** Find Joke<br/>
       ![Find Joke](./assets/postman/get-find-joke.png)
-    * **GET** Random Joke
+    * **GET** Random Joke<br/>
       ![Random Joke](./assets/postman/get-random-joke.png)
-    * **POST** Create a Joke
+    * **POST** Create a Joke<br/>
       ![Create a Joke](./assets/postman/post-create-joke.png)
-    * **PUT** Edit a Joke
+    * **PUT** Edit a Joke<br/>
       ![Edit a Joke](./assets/postman/put-edit-joke.png)
-    * **DELETE** Remove a Joke
+    * **DELETE** Remove a Joke<br/>
       ![Delete a Joke](./assets/postman/delete-remove-joke.png)
